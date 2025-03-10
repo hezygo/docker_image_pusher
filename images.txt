@@ -1,2 +1,3 @@
 synctvorg/synctv:latest
 keynetworks/ztncui:latest
+jonnyan404/zerotier-moon:latest
