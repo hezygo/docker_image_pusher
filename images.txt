@@ -1,3 +1,2 @@
-synctvorg/synctv:latest
-keynetworks/ztncui:latest
-jonnyan404/zerotier-moon:latest
+youshandefeiyang/av3a-assistant:amd64
+youshandefeiyang/allinone
